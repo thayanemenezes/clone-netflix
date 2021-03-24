@@ -1,4 +1,6 @@
-# Aplicação clone da Interface da Netflix, 100% responsiva!
+# Feito com ReactJS <img src="src/react.png">
+
+## Aplicação clone da Interface da Netflix, 100% responsiva!
 <img src="src/print1.png">
 
 ## Versão mobile
